@@ -1,0 +1,2 @@
+# simons
+Learning quant trading
